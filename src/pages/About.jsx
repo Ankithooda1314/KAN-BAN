@@ -30,6 +30,8 @@ function About() {
         props, implement conditional rendering, and improve user experience with
         better UI design and interactions.
       </p>
+
+      <p>Designed and developed by Ankit</p>
     </div>
   );
 }
